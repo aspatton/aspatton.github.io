@@ -1,4 +1,0 @@
-aspatton.github.io
-==================
-
-Blog
