@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Patton Pending
+title: Welcome
 tagline:
 ---
 {% include JB/setup %}
