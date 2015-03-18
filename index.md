@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: All things IT (and some not)
 tagline:
 ---
 {% include JB/setup %}
