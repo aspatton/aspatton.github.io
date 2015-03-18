@@ -2,8 +2,7 @@
 layout: post
 title: "Too old for IT?"
 description: "Nothing but young kids in IT."
-category: test
-tags: []
+category: career, IT, startup, old age
 ---
 {% include JB/setup %}
 
